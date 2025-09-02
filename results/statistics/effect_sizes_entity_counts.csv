@@ -1,0 +1,16 @@
+Municipality 1,Municipality 2,Cohens d,Effect Size
+Porto,Fundao,1.8984835734885273,Large
+Porto,Guimaraes,-0.4355422639937534,Small
+Porto,Alandroal,0.37883287851302344,Small
+Porto,Covilha,-1.165090006859401,Large
+Porto,Campomaior,-0.7897037734053858,Medium
+Fundao,Guimaraes,-1.8221762840525761,Large
+Fundao,Alandroal,-1.5088612045300311,Large
+Fundao,Covilha,-2.0964183888619394,Large
+Fundao,Campomaior,-2.2103197795688563,Large
+Guimaraes,Alandroal,0.690373148940074,Medium
+Guimaraes,Covilha,-0.7967039586115905,Medium
+Guimaraes,Campomaior,-0.2557024400636995,Small
+Alandroal,Covilha,-1.327468711075684,Large
+Alandroal,Campomaior,-1.0490110888886277,Large
+Covilha,Campomaior,0.6321355969283052,Medium
