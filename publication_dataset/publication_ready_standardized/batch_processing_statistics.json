@@ -1,0 +1,43 @@
+{
+  "total_files": 120,
+  "processed_files": 120,
+  "failed_files": 0,
+  "municipalities": {
+    "guimaraes": {
+      "segments": 554,
+      "entities": 1797,
+      "relations": 1216,
+      "files": 20
+    },
+    "porto": {
+      "segments": 472,
+      "entities": 2219,
+      "relations": 1263,
+      "files": 20
+    },
+    "fundao": {
+      "segments": 235,
+      "entities": 1202,
+      "relations": 740,
+      "files": 20
+    },
+    "alandroal": {
+      "segments": 503,
+      "entities": 2192,
+      "relations": 1309,
+      "files": 20
+    },
+    "campomaior": {
+      "segments": 396,
+      "entities": 1605,
+      "relations": 1101,
+      "files": 20
+    },
+    "covilha": {
+      "segments": 718,
+      "entities": 3067,
+      "relations": 2188,
+      "files": 20
+    }
+  }
+}
