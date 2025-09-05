@@ -3481,9 +3481,9 @@
     "language" : "x-unspecified",
     "documentTitle" : "atas/Porto_cm_066_2024-10-14",
     "documentId" : "CURATION_USER",
-    "documentUri" : "admin-3-3/CURATION_USER",
-    "collectionId" : "admin-3-3/CURATION_USER",
-    "documentBaseUri" : "admin-3-3",
+    "documentUri" : "admin-3/CURATION_USER",
+    "collectionId" : "admin-3/CURATION_USER",
+    "documentBaseUri" : "admin-3",
     "isLastSegment" : false
   }, {
     "%ID" : 393,

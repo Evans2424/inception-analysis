@@ -3372,9 +3372,9 @@
     "language" : "x-unspecified",
     "documentTitle" : "atas/Covilha_cm_016_2023-09-22",
     "documentId" : "CURATION_USER",
-    "documentUri" : "admin-3-3/CURATION_USER",
-    "collectionId" : "admin-3-3/CURATION_USER",
-    "documentBaseUri" : "admin-3-3",
+    "documentUri" : "admin-3/CURATION_USER",
+    "collectionId" : "admin-3/CURATION_USER",
+    "documentBaseUri" : "admin-3",
     "isLastSegment" : false
   }, {
     "%ID" : 380,

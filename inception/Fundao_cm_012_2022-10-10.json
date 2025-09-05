@@ -2002,9 +2002,9 @@
     "language" : "x-unspecified",
     "documentTitle" : "atas/Fundao_cm_012_2022-10-10",
     "documentId" : "CURATION_USER",
-    "documentUri" : "admin-3-3/CURATION_USER",
-    "collectionId" : "admin-3-3/CURATION_USER",
-    "documentBaseUri" : "admin-3-3",
+    "documentUri" : "admin-3/CURATION_USER",
+    "collectionId" : "admin-3/CURATION_USER",
+    "documentBaseUri" : "admin-3",
     "isLastSegment" : false
   }, {
     "%ID" : 217,

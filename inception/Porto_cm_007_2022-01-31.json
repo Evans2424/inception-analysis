@@ -3609,7 +3609,7 @@
     "%ID" : 406,
     "%TYPE" : "custom.Span",
     "@sofa" : 2,
-    "begin" : 59383,
+    "begin" : 59384,
     "end" : 59395,
     "label" : "Assunto",
     "Fronteira" : "Fronteira Final"
@@ -3757,10 +3757,10 @@
     "end" : 97452,
     "language" : "x-unspecified",
     "documentTitle" : "atas/Porto_cm_007_2022-01-31",
-    "documentId" : "CURATION_USER",
-    "documentUri" : "admin-3-3/CURATION_USER",
-    "collectionId" : "admin-3-3/CURATION_USER",
-    "documentBaseUri" : "admin-3-3",
+    "documentId" : "Porto_cm_007_2022-01-31.json",
+    "documentUri" : "admin-3/Porto_cm_007_2022-01-31.json",
+    "collectionId" : "admin-3/Porto_cm_007_2022-01-31.json",
+    "documentBaseUri" : "admin-3",
     "isLastSegment" : false
   }, {
     "%ID" : 431,

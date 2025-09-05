@@ -2820,9 +2820,9 @@
     "language" : "x-unspecified",
     "documentTitle" : "atas/Campomaior_cm_020_2024-11-06",
     "documentId" : "CURATION_USER",
-    "documentUri" : "admin-3-3/CURATION_USER",
-    "collectionId" : "admin-3-3/CURATION_USER",
-    "documentBaseUri" : "admin-3-3",
+    "documentUri" : "admin-3/CURATION_USER",
+    "collectionId" : "admin-3/CURATION_USER",
+    "documentBaseUri" : "admin-3",
     "isLastSegment" : false
   }, {
     "%ID" : 314,

@@ -2241,9 +2241,9 @@
     "language" : "x-unspecified",
     "documentTitle" : "Alandroal_cm_006_2023-03-15.txt",
     "documentId" : "CURATION_USER",
-    "documentUri" : "admin-3-3/CURATION_USER",
-    "collectionId" : "admin-3-3/CURATION_USER",
-    "documentBaseUri" : "admin-3-3",
+    "documentUri" : "admin-3/CURATION_USER",
+    "collectionId" : "admin-3/CURATION_USER",
+    "documentBaseUri" : "admin-3",
     "isLastSegment" : false
   }, {
     "%ID" : 252,

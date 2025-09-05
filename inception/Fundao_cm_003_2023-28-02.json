@@ -464,56 +464,56 @@
     "%ID" : 25,
     "%TYPE" : "custom.Relation",
     "@sofa" : 2,
-    "begin" : 36386,
-    "end" : 36395,
-    "@Dependent" : 8,
-    "@Governor" : 26,
-    "label" : "resultado",
-    "resultado" : "por unanimidade"
+    "begin" : 34588,
+    "end" : 34725,
+    "@Dependent" : 26,
+    "@Governor" : 4,
+    "label" : "objeto de votação"
   }, {
     "%ID" : 27,
     "%TYPE" : "custom.Relation",
     "@sofa" : 2,
-    "begin" : 36511,
-    "end" : 36656,
-    "@Dependent" : 28,
-    "@Governor" : 8,
-    "label" : "objeto de votação"
+    "begin" : 36386,
+    "end" : 36395,
+    "@Dependent" : 8,
+    "@Governor" : 28,
+    "label" : "resultado",
+    "resultado" : "por unanimidade"
   }, {
     "%ID" : 29,
     "%TYPE" : "custom.Relation",
     "@sofa" : 2,
-    "begin" : 40588,
-    "end" : 40734,
+    "begin" : 36511,
+    "end" : 36656,
     "@Dependent" : 30,
-    "@Governor" : 11,
+    "@Governor" : 8,
     "label" : "objeto de votação"
   }, {
     "%ID" : 31,
     "%TYPE" : "custom.Relation",
     "@sofa" : 2,
-    "begin" : 42273,
-    "end" : 42338,
+    "begin" : 40588,
+    "end" : 40734,
     "@Dependent" : 32,
-    "@Governor" : 16,
+    "@Governor" : 11,
     "label" : "objeto de votação"
   }, {
     "%ID" : 33,
     "%TYPE" : "custom.Relation",
     "@sofa" : 2,
-    "begin" : 43990,
-    "end" : 44115,
+    "begin" : 42273,
+    "end" : 42338,
     "@Dependent" : 34,
-    "@Governor" : 21,
+    "@Governor" : 16,
     "label" : "objeto de votação"
   }, {
     "%ID" : 35,
     "%TYPE" : "custom.Relation",
     "@sofa" : 2,
-    "begin" : 34588,
-    "end" : 34725,
+    "begin" : 43990,
+    "end" : 44115,
     "@Dependent" : 36,
-    "@Governor" : 3,
+    "@Governor" : 21,
     "label" : "objeto de votação"
   }, {
     "%ID" : 37,
@@ -806,7 +806,7 @@
     "label" : "Posicionamento",
     "Posicionamento" : "Votação"
   }, {
-    "%ID" : 26,
+    "%ID" : 28,
     "%TYPE" : "custom.Span",
     "@sofa" : 2,
     "begin" : 36397,
@@ -990,7 +990,7 @@
     "end" : 910,
     "label" : "Informação Pessoal"
   }, {
-    "%ID" : 36,
+    "%ID" : 26,
     "%TYPE" : "custom.Span",
     "@sofa" : 2,
     "begin" : 34588,
@@ -999,7 +999,7 @@
     "@Atributos2" : 78,
     "Tema" : "Ratificação do protocolo entre o Município e a ADXTUR"
   }, {
-    "%ID" : 28,
+    "%ID" : 30,
     "%TYPE" : "custom.Span",
     "@sofa" : 2,
     "begin" : 36511,
@@ -1008,7 +1008,7 @@
     "@Atributos2" : 79,
     "Tema" : "Aprovação da minuta da adenda ao protocolo de execução entre o Município e a Freguesia de Enxames"
   }, {
-    "%ID" : 30,
+    "%ID" : 32,
     "%TYPE" : "custom.Span",
     "@sofa" : 2,
     "begin" : 40588,
@@ -1017,7 +1017,7 @@
     "@Atributos2" : 80,
     "Tema" : "Aprovação da minuta do Protocolo de cooperação entre o Município e a União das Freguesias de Janeiro de Cima e Bogas de Baixo"
   }, {
-    "%ID" : 32,
+    "%ID" : 34,
     "%TYPE" : "custom.Span",
     "@sofa" : 2,
     "begin" : 42273,
@@ -1026,7 +1026,7 @@
     "@Atributos2" : 81,
     "Tema" : "Atribuição de apoio financeiro à TECTO"
   }, {
-    "%ID" : 34,
+    "%ID" : 36,
     "%TYPE" : "custom.Span",
     "@sofa" : 2,
     "begin" : 43990,
@@ -1179,9 +1179,9 @@
     "language" : "x-unspecified",
     "documentTitle" : "Fundao_cm_003_2023-28-02.txt",
     "documentId" : "CURATION_USER",
-    "documentUri" : "admin-3-3/CURATION_USER",
-    "collectionId" : "admin-3-3/CURATION_USER",
-    "documentBaseUri" : "admin-3-3",
+    "documentUri" : "admin-3/CURATION_USER",
+    "collectionId" : "admin-3/CURATION_USER",
+    "documentBaseUri" : "admin-3",
     "isLastSegment" : false
   }, {
     "%ID" : 107,

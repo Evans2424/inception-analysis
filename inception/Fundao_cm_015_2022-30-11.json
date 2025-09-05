@@ -1991,7 +1991,7 @@
     "begin" : 105234,
     "end" : 105252,
     "label" : "Posicionamento",
-    "Posicionamento" : "Votante"
+    "Posicionamento" : "Votação"
   }, {
     "%ID" : 91,
     "%TYPE" : "custom.Span",
@@ -2154,9 +2154,9 @@
     "language" : "x-unspecified",
     "documentTitle" : "atas/Fundao_cm_015_2022-30-11",
     "documentId" : "CURATION_USER",
-    "documentUri" : "admin-3-3/CURATION_USER",
-    "collectionId" : "admin-3-3/CURATION_USER",
-    "documentBaseUri" : "admin-3-3",
+    "documentUri" : "admin-3/CURATION_USER",
+    "collectionId" : "admin-3/CURATION_USER",
+    "documentBaseUri" : "admin-3",
     "isLastSegment" : false
   }, {
     "%ID" : 235,
