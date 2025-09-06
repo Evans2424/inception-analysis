@@ -4,8 +4,8 @@ Municipalities,6
 Total Characters,"7,512,427"
 Total Tokens,"1,188,024"
 Avg Tokens/Document,9900
-Total Entities,"26,435"
-Entity Types,6
+Total Entities,"26,429"
+Entity Types,5
 Total Relations,"8,741"
 Entity Coverage (%),100.0
 Avg Entities/Document,220.29

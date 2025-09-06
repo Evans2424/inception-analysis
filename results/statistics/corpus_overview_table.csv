@@ -1,11 +1,13 @@
 Metric,Value
 📄 Total Documents,120
 🏛️ Municipalities,6
+📋 Documents/Municipality,20
 📊 Total Text Length,"7,512,427 characters"
 🔤 Total Tokens,"1,188,024"
-🏷️ Total Entities,"26,435"
-📝 Entity Types,6
+📊 Avg Tokens/Document,"9,900"
+🏷️ Total Entities,"26,429"
+📋 Avg Entities/Document,220
+📝 Entity Types,5
 🔗 Total Relations,"8,741"
 📈 Documents with Entities,120
 📊 Entity Coverage,100.0%
-📋 Avg Entities/Document,220.29

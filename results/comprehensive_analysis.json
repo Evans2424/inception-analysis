@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "analysis_date": "2025-09-05T23:17:01.300285",
+    "analysis_date": "2025-09-06T02:09:26.382050",
     "total_files_analyzed": 120,
     "analysis_scope": "Complete INCEpTION annotation corpus with enhanced metadata analysis"
   },
@@ -24,28 +24,27 @@
       "total_tokens": "1188024"
     },
     "entity_overview": {
-      "total_entities": 26435,
-      "unique_entity_types": 6,
+      "total_entities": 26429,
+      "unique_entity_types": 5,
       "entity_types": {
         "Posicionamento": 8777,
         "Assunto": 8647,
         "Informação Pessoal": 5760,
         "Metadados": 1825,
-        "Ordem do Dia": 1420,
-        "": 6
+        "Ordem do Dia": 1420
       },
       "documents_with_entities": 120,
       "avg_entities_per_document": 220.29166666666666,
       "entity_coverage": 1.0
     },
     "entity_characteristics": {
-      "avg_entity_length_chars": 27.09207490069983,
-      "avg_entity_length_tokens": 4.227652733118971,
+      "avg_entity_length_chars": 27.0948579212229,
+      "avg_entity_length_tokens": 4.228044950622422,
       "entity_length_distribution": {
         "min": "0",
         "max": "530",
         "median": 12.0,
-        "std": 38.97633830650134,
+        "std": 38.98015448973841,
         "percentile_25": 8.0,
         "percentile_75": 28.0,
         "percentile_95": 116.0
@@ -191,14 +190,6 @@
       }
     },
     "entity_distribution": {
-      "": {
-        "Alandroal": 0,
-        "Campomaior": 5,
-        "Covilha": 0,
-        "Fundao": 0,
-        "Guimaraes": 0,
-        "Porto": 1
-      },
       "Assunto": {
         "Alandroal": 1513,
         "Campomaior": 1192,
@@ -242,11 +233,11 @@
     },
     "entity_density": {
       "Alandroal": 195.75,
-      "Campomaior": 249.9,
+      "Campomaior": 249.65,
       "Covilha": 306.1,
       "Fundao": 125.85,
       "Guimaraes": 233.7,
-      "Porto": 210.45
+      "Porto": 210.4
     },
     "posicionamento_by_municipality": {
       "a favor": {
@@ -311,10 +302,10 @@
     },
     "entity_type_distribution": {
       "test": "Chi-square",
-      "chi2_statistic": 3510.026051339074,
+      "chi2_statistic": 3494.083858190601,
       "p_value": 0.0,
-      "degrees_of_freedom": 25,
-      "cramers_v": 0.16295981027310055,
+      "degrees_of_freedom": 20,
+      "cramers_v": 0.18180101383786013,
       "significant": "True",
       "effect_size": "small"
     },
@@ -336,12 +327,6 @@
       "2024.0": 32
     },
     "entities_by_year": {
-      "": {
-        "2021.0": 1,
-        "2022.0": 2,
-        "2023.0": 2,
-        "2024.0": 1
-      },
       "Assunto": {
         "2021.0": 906,
         "2022.0": 2308,
@@ -406,20 +391,17 @@
       "Assunto": 8647,
       "Informação Pessoal": 5760,
       "Metadados": 1825,
-      "Ordem do Dia": 1420,
-      "": 6
+      "Ordem do Dia": 1420
     },
     "entity_type_percentages": {
-      "Posicionamento": 33.2,
-      "Assunto": 32.71,
+      "Posicionamento": 33.21,
+      "Assunto": 32.72,
       "Informação Pessoal": 21.79,
-      "Metadados": 6.9,
-      "Ordem do Dia": 5.37,
-      "": 0.02
+      "Metadados": 6.91,
+      "Ordem do Dia": 5.37
     },
     "length_by_entity_type": {
       "count": {
-        "": 6,
         "Assunto": 8647,
         "Informação Pessoal": 5760,
         "Metadados": 1825,
@@ -427,7 +409,6 @@
         "Posicionamento": 8777
       },
       "mean": {
-        "": 14.833333333333334,
         "Assunto": 37.966115415751126,
         "Informação Pessoal": 16.74079861111111,
         "Metadados": 26.65150684931507,
@@ -435,7 +416,6 @@
         "Posicionamento": 13.316622991910675
       },
       "median": {
-        "": 11.5,
         "Assunto": 12.0,
         "Informação Pessoal": 14.0,
         "Metadados": 28.0,
@@ -443,7 +423,6 @@
         "Posicionamento": 10.0
       },
       "std": {
-        "": 8.376554582086042,
         "Assunto": 52.25217890483294,
         "Informação Pessoal": 13.011235159514042,
         "Metadados": 12.846307202768314,
@@ -451,7 +430,6 @@
         "Posicionamento": 10.022758427593157
       },
       "min": {
-        "": 8,
         "Assunto": 1,
         "Informação Pessoal": 1,
         "Metadados": 1,
@@ -459,7 +437,6 @@
         "Posicionamento": 0
       },
       "max": {
-        "": 30,
         "Assunto": 530,
         "Informação Pessoal": 78,
         "Metadados": 57,
@@ -469,7 +446,6 @@
     },
     "tokens_by_entity_type": {
       "count": {
-        "": 6,
         "Assunto": 8647,
         "Informação Pessoal": 5760,
         "Metadados": 1825,
@@ -477,7 +453,6 @@
         "Posicionamento": 8777
       },
       "mean": {
-        "": 2.5,
         "Assunto": 5.893951659535099,
         "Informação Pessoal": 2.698958333333333,
         "Metadados": 4.316712328767124,
@@ -485,7 +460,6 @@
         "Posicionamento": 1.9974934487866014
       },
       "median": {
-        "": 1.5,
         "Assunto": 1.0,
         "Informação Pessoal": 2.0,
         "Metadados": 4.0,
@@ -493,7 +467,6 @@
         "Posicionamento": 2.0
       },
       "std": {
-        "": 1.9748417658131499,
         "Assunto": 8.356210238931743,
         "Informação Pessoal": 1.9471214968852306,
         "Metadados": 2.126346358055244,
@@ -501,7 +474,6 @@
         "Posicionamento": 1.6361746710618623
       },
       "min": {
-        "": 1,
         "Assunto": 1,
         "Informação Pessoal": 1,
         "Metadados": 1,
@@ -509,7 +481,6 @@
         "Posicionamento": 0
       },
       "max": {
-        "": 5,
         "Assunto": 80,
         "Informação Pessoal": 15,
         "Metadados": 10,
@@ -577,58 +548,38 @@
         "o Executivo Municipal": 405,
         "DELIBEROU": 319,
         "A CÂMARA": 297
-      },
-      "": {
-        "CAMPO MAIOR": 1,
-        "DE NOSSA SENHORA DA EXPECTAÇÃO": 1,
-        "regulamentar": 1,
-        "autónomo": 1,
-        "Confraria": 1,
-        "7 DE AGOSTO DE 1951": 1
       }
     },
     "entity_cooccurrence": {
-      "Posicionamento": {
-        "Informação Pessoal": 120,
-        "Assunto": 120,
-        "Metadados": 120,
-        "Ordem do Dia": 120,
-        "": 5
-      },
       "Informação Pessoal": {
+        "Metadados": 120,
         "Posicionamento": 120,
         "Assunto": 120,
-        "Metadados": 120,
-        "Ordem do Dia": 120,
-        "": 5
-      },
-      "Assunto": {
-        "Posicionamento": 120,
-        "Informação Pessoal": 120,
-        "Metadados": 120,
-        "Ordem do Dia": 120,
-        "": 5
+        "Ordem do Dia": 120
       },
       "Metadados": {
-        "Posicionamento": 120,
         "Informação Pessoal": 120,
+        "Posicionamento": 120,
         "Assunto": 120,
-        "Ordem do Dia": 120,
-        "": 5
+        "Ordem do Dia": 120
+      },
+      "Posicionamento": {
+        "Informação Pessoal": 120,
+        "Metadados": 120,
+        "Assunto": 120,
+        "Ordem do Dia": 120
+      },
+      "Assunto": {
+        "Informação Pessoal": 120,
+        "Metadados": 120,
+        "Posicionamento": 120,
+        "Ordem do Dia": 120
       },
       "Ordem do Dia": {
-        "Posicionamento": 120,
         "Informação Pessoal": 120,
-        "Assunto": 120,
         "Metadados": 120,
-        "": 5
-      },
-      "": {
-        "Posicionamento": 5,
-        "Informação Pessoal": 5,
-        "Assunto": 5,
-        "Metadados": 5,
-        "Ordem do Dia": 5
+        "Posicionamento": 120,
+        "Assunto": 120
       }
     }
   },
