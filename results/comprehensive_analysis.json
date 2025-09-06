@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "analysis_date": "2025-09-06T02:09:26.382050",
+    "analysis_date": "2025-09-06T02:52:04.942339",
     "total_files_analyzed": 120,
     "analysis_scope": "Complete INCEpTION annotation corpus with enhanced metadata analysis"
   },
@@ -551,35 +551,35 @@
       }
     },
     "entity_cooccurrence": {
-      "Informação Pessoal": {
+      "Assunto": {
         "Metadados": 120,
-        "Posicionamento": 120,
-        "Assunto": 120,
-        "Ordem do Dia": 120
+        "Ordem do Dia": 120,
+        "Informação Pessoal": 120,
+        "Posicionamento": 120
       },
       "Metadados": {
-        "Informação Pessoal": 120,
-        "Posicionamento": 120,
         "Assunto": 120,
-        "Ordem do Dia": 120
-      },
-      "Posicionamento": {
+        "Ordem do Dia": 120,
         "Informação Pessoal": 120,
-        "Metadados": 120,
-        "Assunto": 120,
-        "Ordem do Dia": 120
-      },
-      "Assunto": {
-        "Informação Pessoal": 120,
-        "Metadados": 120,
-        "Posicionamento": 120,
-        "Ordem do Dia": 120
+        "Posicionamento": 120
       },
       "Ordem do Dia": {
-        "Informação Pessoal": 120,
+        "Assunto": 120,
         "Metadados": 120,
-        "Posicionamento": 120,
-        "Assunto": 120
+        "Informação Pessoal": 120,
+        "Posicionamento": 120
+      },
+      "Informação Pessoal": {
+        "Assunto": 120,
+        "Metadados": 120,
+        "Ordem do Dia": 120,
+        "Posicionamento": 120
+      },
+      "Posicionamento": {
+        "Assunto": 120,
+        "Metadados": 120,
+        "Ordem do Dia": 120,
+        "Informação Pessoal": 120
       }
     }
   },
